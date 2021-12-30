@@ -1,7 +1,8 @@
 # ShoppingCart-Mall Management system(web application)
 
-## projectNinja 
+## ProjectNinja  
 #### we in sem3 a group of 4 did a project based on shopping_Cart (Mall Management system)
+(Riean |Rhea |Swati| Rishab) 
 _Features in our system_ 
 
  - System Outerface
